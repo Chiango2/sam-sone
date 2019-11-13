@@ -1,1 +1,0 @@
-This is the right time to learn Git and GitHub
